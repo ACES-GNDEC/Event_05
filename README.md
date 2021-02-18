@@ -12,7 +12,7 @@ The event of ACES (Association of Civil Engineering Students) 2019-2020 was cond
 |-------------------|----------|--------|-----|--------| 
 |Manmeet kour       |1814067   |CE      |D2   |FIRST   |
 |Sidak Singh        |1630106   |ME      |D4   |FIRST   |
-|Sarabjeet Kaur     |1914099   |CE      |D1   |Second  |
+|Sarabjeet Kaur     |1914099   |CE      |D1   |SECOND  |
 |Navdeep Sapra      |          |CSE     |D1   |SECOND  |
 |Rohit Kumar        |1821117   |IT      |D2   |THIRD   |
 |Vipul Sharma       |1821089   |IT      |D2   |THIRD   |
